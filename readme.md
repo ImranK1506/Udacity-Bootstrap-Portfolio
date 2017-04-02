@@ -1,4 +1,4 @@
-<h1>Udacity: Projec - Build a Portfolio Site (Bootstrap)</h1>
+<h1>Udacity: Project - Build a Portfolio Site (Bootstrap)</h1>
 
 <h2>Assignment: Bootstrap and other Frameworks</h2>
 
